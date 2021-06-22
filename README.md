@@ -1,7 +1,7 @@
 <h1 align="left">Justin Fan
 <img src="https://cdn.schoolloop.com/uimgcdn/aHR0cHM6Ly9taXNzaW9uLWZ1c2QtY2Euc2Nob29sbG9vcC5jb20vdWltZy9maWxlLzE1MDAxNzg5NzE3NzgvMTQ1NjgyNTI3Njg4OS83NTk2NTAzNTIzNzcwMjIxNDcyLnBuZw==" alt="Logo" width="100" height="100">
 </h1> 
-<p> I'm Justin Fan, a 17 year old Computer Scientist. I am currently a high school student studying cyber security, data management, and applications of computer science on other fields of science.</p><br>
+<p> I'm Justin Fan, a 17 year old Computer Scientist. I am currently a high school student studying data management, cryptocurrecy, and applications of computer science on other fields of science.</p><br>
 <div align="center">
 
   
