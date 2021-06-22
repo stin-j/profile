@@ -16,12 +16,10 @@
 
  [![Gmail][Gmail-shield]][Gmail-url] [![Discord][Discord-shield]][Discord-url]
  
+ ![👀][tracker-shield]
  <h2> Listening to 🎧 </h2>
 
   [![Spotify][Spotify-shield]][Spotify-url]
-<h2> Socials </h2>
-
- ![👀][tracker-shield]
 <!-- Links -->
 [Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Gmail-url]: https://mail.google.com/mail/?view=cm&source=mailto&to=fan.justin4.1@gmail.com
