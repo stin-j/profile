@@ -32,4 +32,5 @@ Languages and Tools:
 [Discord-url]:https://discordapp.com/users/265020091748319232
 [stats-url]:https://github-readme-stats.vercel.app/api?username=stin-j&show_icons=true&theme=vue-dark&count_private=true&hide=contribs&hide_border=false
 [tracker-shield]:https://komarev.com/ghpvc/?username=stin-j
+[Spotify-shield]:https://22vs4ppptftowhg5m6646lg4i.vercel.app/api/spotify
 [Spotify-url]:https://open.spotify.com/user/22vs4ppptftowhg5m6646lg4i
