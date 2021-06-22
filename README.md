@@ -28,4 +28,4 @@
 [stats-url]:https://github-readme-stats.vercel.app/api?username=stin-j&show_icons=true&theme=vue-dark&count_private=true&hide=contribs&hide_border=false
 [tracker-shield]:https://komarev.com/ghpvc/?username=stin-j
 [Spotify-shield]:https://novatorem-three-weld.vercel.app/api/spotify 
-[Spotify-url]:https://open.spotify.com/user/22vs4ppptftowhg5m6646lg4i
+[Spotify-url]:https://open.spotify.com/user/Justin
