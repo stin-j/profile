@@ -10,7 +10,7 @@
 <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stin-j&langs_count=6&theme=tokyonight&layout=compact" />
 </a>
-</div>
+
 
 
 **Languages and Tools:**  
