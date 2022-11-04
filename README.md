@@ -29,7 +29,7 @@ Languages and Tools:
 [Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Gmail-url]: https://mail.google.com/mail/?view=cm&source=mailto&to=fan.justin4.1@gmail.com
 [Discord-shield]:https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[Discord-url]:https://discordapp.com/users/265020091748319232
+[Discord-url]:https://discordapp.com/users/812359218325225502
 [stats-url]:https://github-readme-stats.vercel.app/api?username=stin-j&show_icons=true&theme=vue-dark&count_private=true&hide=contribs&hide_border=false
 [tracker-shield]:https://komarev.com/ghpvc/?username=stin-j
 [Spotify-shield]:https://22vs4ppptftowhg5m6646lg4i.vercel.app/api/spotify
