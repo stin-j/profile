@@ -1,5 +1,6 @@
 <h1 align="left">Justin Fan
-<img src="https://cdn.schoolloop.com/uimgcdn/aHR0cHM6Ly9taXNzaW9uLWZ1c2QtY2Euc2Nob29sbG9vcC5jb20vdWltZy9maWxlLzE1MDAxNzg5NzE3NzgvMTQ1NjgyNTI3Njg4OS83NTk2NTAzNTIzNzcwMjIxNDcyLnBuZw==" alt="Logo" width="100" height="100">
+<img src="https://cdn.schoolloop.com/uimgcdn/aHR0cHM6Ly9taXNzaW9uLWZ1c2QtY2Euc2Nob29sbG9vcC5jb20vdWltZy9maWxlLzE1MDAxNzg5NzE3NzgvMTQ1NjgyNTI3Njg4OS83NTk2NTAzNTIzNzcwMjIxNDcyLnBuZw==" alt="MSJHSlogo" width="100" height="100"></img>
+<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Santa_Clara_U_Seal.svg/1200px-Santa_Clara_U_Seal.svg.png" alt="SCUlogo" width="100" height="100"></img>
 </h1> 
 <p> Hi! I'm Justin Fan, a Web Design and Engineering student studying data management, cryptocurrecy, and applications of computer science on other fields of science at Santa Clara Univeristy.</p><br>
 <div align="center">
